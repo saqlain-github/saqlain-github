@@ -8,7 +8,6 @@ As a highly motivated data scientist with two years of experience and a passion 
 
 <h2 align="left">📈 My GitHub Stats </h2>
 
-<br><br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" />
 
 <p align="center">
