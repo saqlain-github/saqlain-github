@@ -23,9 +23,9 @@ As a highly motivated data scientist with two years of experience and a passion 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Senior Software Engineer and Masters student at BITS.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring new Technologies or the world one adventure at a time 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time(which i hardly get), I solve problems and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saqlain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saqlain-ahmed/)
 
