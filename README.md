@@ -5,10 +5,11 @@ Hi, I'm Syed Saqlain Ahmed, a passionate Data Scientist. I am enhancing my knowl
 As a highly motivated data scientist with two years of experience and a passion for uncovering insights from data with my technical expertise in machine learning and deep learning, as well as my advanced education in datascience. With a strong foundation in natural language processing, I am committed to delivering impactful insights and drivingdata-driven solutions for organizations. I am eager to continue growing my skills, lead the way in innovation, and contribute to therevolutionising of the data industry.
 
 ---
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" />
+
 <h2 align="left">📈 My GitHub Stats </h2>
 
-
+<br><br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" />
 
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=saqlain-github&show_icons=true&theme=gotham" alt="saqlain" width="400" />
