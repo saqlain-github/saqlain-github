@@ -11,9 +11,9 @@ As a highly motivated data scientist with two years of experience and a passion 
 
 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=saqlain-github&show_icons=true&theme=gotham" alt="saqlain" width="300" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=saqlain-github&show_icons=true&theme=gotham" alt="saqlain-github" width="300"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlain-github&layout=compact&theme=gotham" alt="saqlain-github" width="300" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=saqlain-github&show_icons=true&theme=gotham" alt="saqlain" width="400" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=saqlain-github&show_icons=true&theme=gotham" alt="saqlain-github" width="400"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlain-github&layout=compact&theme=gotham" alt="saqlain-github" width="400" />
  </p>
 
 <br><br>
@@ -27,7 +27,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saqlain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saqlain-ahmed/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saqlain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saqlain-ahmed/)
 
 
  
